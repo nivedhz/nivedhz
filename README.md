@@ -44,7 +44,7 @@
 ## 📌 Current Focus
 
 ```txt
-✔ Strengthening JavaScript fundamentals
-✔ Building small but real projects
-✔ Understanding how things work under the hood
-✔ Avoiding tutorial hell (trying 😅)
+✔ Strengthening HTML fundamentals
+✔ Building small but real projects from The Odin Project
+✔ Understanding how things work under the hood (kinda)
+✔ Avoiding tutorial hell (trying 😅), jumping to docs hell..
