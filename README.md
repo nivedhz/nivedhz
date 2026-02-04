@@ -15,12 +15,11 @@
 
 ## 🧠 About Me
 
-- 🎓 Student learning Web Development
-- 🛠 Currently working with HTML, CSS, JavaScript
-- 🐍 Comfortable with Python basics
-- 🌱 Learning React & Full-Stack fundamentals
-- 🎯 Goal: Become a strong, practical software engineer
-- ☕ Powered by curiosity, late nights & “why does this work?” moments
+- 🎓 Student learning Web Development.
+- 🛠 Currently working with HTML and CSS.
+- 🐍 Comfortable with Python basics (Kinda...).
+- 🎯 Goal: Become a strong, practical software engineer.
+- ☕ Powered by google searches and Indian Tutorials with >100 views.
 
 ---
 
