@@ -3,7 +3,6 @@
 <!-- ========================= -->
 
 <h1 align="center">Hey 👋, I'm Nivedh</h1>
-<h3 align="center">Learning Web Dev | Curious Coder | Building One Project at a Time 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/nivedhz">
@@ -13,15 +12,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Student learning Web Development.
-- 🛠 Currently working with HTML and CSS.
-- 🐍 Comfortable with Python basics (Kinda...).
-- 🎯 Goal: Become a strong, practical software engineer.
-- ☕ Powered by google searches and Indian Tutorials with >100 views.
-
----
 
 ## 🛠 Tech Stack
 
@@ -40,10 +30,3 @@
 
 ---
 
-## 📌 Current Focus
-
-```txt
-✔ Strengthening CSS fundamentals
-✔ Building small but real projects from The Odin Project
-✔ Understanding how things work under the hood (kinda)
-✔ Avoiding tutorial hell (trying 😅), jumping to docs hell..
