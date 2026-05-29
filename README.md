@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Nivedh</h1>
+<<h1 align="center">Hey 👋, I'm Nivedh</h1>
 
 <p align="center">
   <a href="https://github.com/nivedhz">
@@ -10,16 +10,18 @@
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend
+### 🌐 Web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🧪 Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+### 🧠 Computer Science
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
 
 ### 🧰 Tools & Environment
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
