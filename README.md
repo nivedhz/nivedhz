@@ -19,10 +19,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🧠 Computer Science
-![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
-
 ### 🧰 Tools & Environment
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
