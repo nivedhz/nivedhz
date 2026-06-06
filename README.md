@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nivedhz" alt="Profile Views">
+</p>
+
+
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
