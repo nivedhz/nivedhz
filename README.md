@@ -18,6 +18,7 @@
 
 ### 🧪 Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-20232A?style=for-the-badge\&logo=vitest\&logoColor=white)
 
 ### 🧰 Tools & Environment
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
