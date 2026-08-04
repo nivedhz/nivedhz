@@ -18,6 +18,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge\&logo=mysql\&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge\&logo=postgresql\&logoColor=blue)
+![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge\&logo=prisma\&logoColor=grey)
+
 
 ### ⚙️ Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
