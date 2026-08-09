@@ -20,6 +20,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge\&logo=mysql\&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge\&logo=postgresql\&logoColor=blue)
 ![Prisma](https://img.shields.io/badge/Prisma-white?style=for-the-badge\&logo=prisma\&logoColor=grey)
+![Multer.js](https://img.shields.io/badge/Multer.js-white?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge\&logo=supabase\&logoColor=green)
 
 
 ### ⚙️ Programming
