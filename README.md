@@ -16,7 +16,6 @@
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
-![OGL](https://img.shields.io/badge/OGL-000000?style=for-the-badge)
 
 ### 💽 Backend
 
