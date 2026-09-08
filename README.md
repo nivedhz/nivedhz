@@ -12,10 +12,14 @@
 ![EJS](https://img.shields.io/badge/EJS-black?style=for-the-badge\&logo=ejs\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
+![Base UI](https://img.shields.io/badge/Base%20UI-000000?style=for-the-badge\&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide-React-F56565?style=for-the-badge\&logo=lucide\&logoColor=white)
 
 ### 💽 Backend
 
@@ -48,5 +52,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![Node.js (npm)](https://img.shields.io/badge/Node.js-npm-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Lucide React](https://img.shields.io/badge/Lucide-React-F56565?style=for-the-badge\&logo=lucide\&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge\&logo=eslint\&logoColor=white)
+
+
